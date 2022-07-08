@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translator_Details>>
+<ChromeDriver>C:\\Users\\AKMALI\\Downloads\\seleniumjar\\chromedriver_win32\\chromedriver.exe</ChromeDriver>
+<url>https://dictionary.cambridge.org</url>
+<Translate>//span[contains(text(),'Translate')]</Translate>
+<Auto-detect>//body/div[2]/div[1]/div[2]/div[4]/form[1]/div[1]/div[1]/div[1]</Auto-detect>
+<Enter_text_here>//button[@id='button-submit</Enter_text_here>
+<Translator>//body/div[2]/div[1]/div[2]/div[4]/form[1]/div[3]/div[2]/div[1]</Translator>
+<Grammer>//header/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]</Grammer>
+<content>//*[@id=\"page-content\"]/div[2]/span/p[1]</content>
+<Adjectives_and_adverbs>//a[contains(text(),'Adjectives and adverbs'</Adjectives_and_adverbs>
+<Easily_confused_words>//a[contains(text(),'Easily confused words'</Easily_confused_words>
+<Nouns_pronouns_and_determiners>//a[contains(text(),'Nouns, pronouns and determiners'</Nouns_pronouns_and_determiners>
+<Prepositions_and_particles>//a[contains(text(),'Prepositions and particles'</Prepositions_and_particles>
+<Using_English>//a[contains(text(),'Using English'</Using_English>
+<Verbs>//a[contains(text(),'Verbs'</Verbs>
+<Words_sentences_and_clauses>//a[contains(text(),'Words, sentences and clauses'</Words_sentences_and_clauses>
+</Translator_Details>

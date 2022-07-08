@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cambridge_detail>
+<url> https://dictionary.cambridge.org/</url>
+<logo>//body/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]/amp-img[1]/img[1]</logo>
+<Word_of_the_day>=//p[@class='fs12 tcu lmb-0']</Word_of_the_day>
+<Word>//p[contains(@class='fs36 lmt-5 feature-w-big wotd-hw')]</Word>
+<Display>//p[@class='fs12 tcu lmb-0']</Display>
+<meaning>//div[contains(@class='def ddef_d db')]</meaning>
+<Search_key>//body[1]/div[3]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]</Search_key>
+<Sub_search>//body[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/span[1]/button[3]/i[1]</Sub_search>
+<meaning_of_the_word>/body[1]/div[2]/div[1]/div[1]/div[2]/article[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]</meaning_of_the_word>
+<pronunciation>//span[contains(@class,'uk dpron-i')]//span[@class='daud']//div[@class='i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3']</pronunciation>
+<Facebook_logo>//header/div[1]/div[2]/ul[1]/li[1]/a[1]</Facebook_logo>
+</cambridge_detail>

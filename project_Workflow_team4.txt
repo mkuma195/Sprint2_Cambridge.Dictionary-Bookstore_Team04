@@ -1,0 +1,16 @@
+Team4 BookStore
+1.Manisha Kumari
+	Webdriver
+	Page Factory
+	Dictionary
+	Translator Grammar
+	
+2.Mayuri Mestri & Suraj Ashok Masal
+	Cucumber
+	Dictionary
+	Translator & Grammar
+3.Ipsita Panda & Akshay Ashok Mali
+	xml file
+	Dictionary
+	Translator & Grammar
+
